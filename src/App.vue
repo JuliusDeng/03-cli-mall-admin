@@ -1,11 +1,8 @@
 <template>
   <div id="app">
-	  <div class="card">
-		  <div class="card-header">但是</div>
-		  <div class="card-body">但是</div>
-		  <div class="card-footer">但是</div>
-	  </div>
-	  
+	  <h3>这是h3</h3>
+	  <router-view></router-view>
+	  <h4>this is h4</h4>
   </div>
 </template>
 
