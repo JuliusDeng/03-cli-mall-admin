@@ -1,6 +1,6 @@
 <template>
 	<div>
-		主布局
+		<h3>主布局</h3>
 		<router-view></router-view>
 	</div>
 </template>

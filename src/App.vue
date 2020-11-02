@@ -1,8 +1,7 @@
 <template>
   <div id="app">
-	  <h3>这是h3</h3>
+	  <h1>Hello, Vue.js!</h1>
 	  <router-view></router-view>
-	  <h4>this is h4</h4>
   </div>
 </template>
 
